@@ -1,0 +1,19 @@
+body {
+    width: 900px;
+    margin: 0 auto !important;
+  }
+  
+footer {
+    height: 80px;
+    background-color:#d63384;
+  }
+#text-footer{
+text-align: center;
+font-size: large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: italic;
+}
+#txt{
+text-align: center;
+font-family: fantasy;
+}
